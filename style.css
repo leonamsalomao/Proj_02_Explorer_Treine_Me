@@ -105,7 +105,12 @@ footer{
 }
 
 footer a{
+  color: #7D7987;
   font-weight: 700;
+}
+
+footer a:hover{
+  color: #1F1534;
 }
 
 #balls{
